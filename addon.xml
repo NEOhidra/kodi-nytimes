@@ -13,8 +13,9 @@
     <disclaimer lang="en"></disclaimer>
     <language></language>
     <platform>all</platform>
-    <forum></forum>
+    <forum>http://forum.kodi.tv/showthread.php?tid=218994</forum>
     <website>https://github.com/netw1z/kodi-nytimes</website>
     <email>johnthreat@gmail.com</email>
+    <source>https://github.com/netw1z/kodi-nytimes</source>
   </extension>
 </addon>
